@@ -18,3 +18,7 @@ Can vou further explain the difference or benefits of using sess instead of css?
 
 
 # Things to discuss
+What causes a React component to rerender?
+1. The component's parent renders again
+2. The component's props change
+3. The component's state changes
