@@ -1,0 +1,9 @@
+.StudentList {
+    width: 60vw;
+    height: 80vh;
+    overflow-y: scroll;
+    border: 2px dotted blue;
+    border-radius: 6 px;
+    background-color: #fff;
+    
+}

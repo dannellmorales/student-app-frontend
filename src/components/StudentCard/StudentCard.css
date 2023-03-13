@@ -1,0 +1,36 @@
+.StudentCard{
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 10px;
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    /* border: 4px dotted red */
+}
+
+
+.StudentCard__Avatar{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+}
+.StudentCard__Avatar img{ 
+    width: 100px;
+    border: 1px solid #ccc;
+    border-radius: 100%;
+}
+
+.StudentCard__info h1{
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.StudentCard__info ul{
+    padding-inline-start: 16px;
+    
+}
+
+.StudentCard__info li{
+    color: #666;
+    list-style-type: none;
+
+}

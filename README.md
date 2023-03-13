@@ -1,3 +1,20 @@
+# TODOS 2023-01-15
+Style the student list
+Handle loading state
+Handle error state
+Refactor with a layout component
+
+# QUESTIONS 2023-01-15
+Why do we need React components to re-render?
+ 
+What are the three things that make a React component re-render?
+1.State Changes
+2.Props Changes
+3.Parent Changes
+(4. Context Changes)
+What are the benefits of scss over css?
+
+
 # TODOs
 Create a frontend React repo for our project
 Connect the repo to our backend server
